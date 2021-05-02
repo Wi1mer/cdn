@@ -1,0 +1,61 @@
+{
+  "_name": "Español",
+  "languages": "Lenguajes",
+  "index": "Índice",
+  "folder": "Carpeta",
+  "notify": {
+    "title": "Notificación"
+  },
+  "copy": {
+    "text": "Copiar",
+    "success": "Copiado correctamente",
+    "error": "Fallo al copiar"
+  },
+  "list": {
+    "view": {
+      "gridMode": "Vista en cuadrícula",
+      "listMode": "Vista de la lista"
+    },
+    "auth": "Directorio encriptado, Ingrese la contraseña",
+    "title": {
+      "file": "Archivo",
+      "moditime": "Fecha de modificación",
+      "size": "Tamaño",
+      "operation": "Acciones"
+    },
+    "loading": "Cargando...",
+    "opt": {
+      "copy": "Copiar link",
+      "newTab": "Abrir en una nueva ventana",
+      "download": "Descargar"
+    },
+    "total": "Total",
+    "item": "Archivos"
+  },
+  "search": {
+    "placeholder": "Buscar Medios..."
+  },
+  "page": {
+    "video": {
+      "play": "Reproducir",
+      "download": "Descargar",
+      "link": "link de descarga"
+    },
+    "text": {
+      "loading": "Cargando..."
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "Borrar cache",
+      "success": "Cache Borrado correctamente"
+    }
+  },
+  "checkVersion": {
+    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+  },
+  "error": {
+    "shortcut_not_down": "Shortcut can't open/download",
+    "401": "Unauthorized, please login"
+  }
+}
